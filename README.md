@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fixesbythinking
+- 👋 Hi, I’m @fixesbythinking.  If you don't get the reference, I recommend you look it up!
 - 👀 I was born an engineer.
 - 🌱 I code for fun and to write productivity enhancing apps for my Engineering business.
 - 💞️ I’m not looking to collaborate...no offense.
